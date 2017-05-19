@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Cinq
+
+  Created by InheritX Solution on 7/12/16.
+  Copyright © 2016 InheritX Solution. All rights reserved.
+*/
+
+//MARK: - Arrays -
+"arrTemp" = "msg1,msg2,msg3,msg4,msg5";
+
+
+//MARK: - Message -
+"ALERT" = "THIS IS SAMPLE ALERT.";

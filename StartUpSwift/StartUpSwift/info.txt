@@ -1,0 +1,17 @@
+Version : 1.0.0
+
+Application Name : StartUpSwift
+
+Core features of application :
+- Basic Swift
+-
+-
+-
+
+Third party api used :
+-
+-
+-
+-
+
+
