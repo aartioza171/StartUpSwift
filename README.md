@@ -1,5 +1,5 @@
 # StartUpSwift
-This iproject will help you to know what will be the first requirement while you are creating an app with iOS platform. This will also help you for initial setup of your project and make easier and smooth programming in future.
+This project will help you to know what will be the first requirement while you are creating an app with iOS platform. This will also help you for initial setup of your project and make easier and smooth programming in future.
 
 Constant.swift
 - Contains all keys and objects
