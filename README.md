@@ -43,12 +43,12 @@ ViewController.swift
 
 AppExtension.swift
 
-- All the common extension that we are usiing must me in this in file.
+- All the common extension that we are usiing must be in this in file.
 
 AppTrash.swift
 
-- It will store all commented code
-- instead of storing all commented code in class its good practise to store it in ProjectTrash.swift so we can use it later if we want.
+- It will store all commented code.
+- Instead of storing all commented code in class its good practise to store it in AppTrash.swift so we can use it later if we need.
 
 AppInfo.text
 
