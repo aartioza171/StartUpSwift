@@ -53,4 +53,4 @@ AppTrash.swift
 AppInfo.text
 
 - Contains info of app
-- Contains third party info with link (if used) (open?id=1sZGvxyoTWrfXdLZuQ0sL12XCXMjo2RyS)
+- Contains third party info with link (if used) 
