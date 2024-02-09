@@ -1,7 +1,5 @@
 # StartUpSwift
 
-# Update Link is here: https://docs.google.com/presentation/d/1YIrwGUC9X28d10SHFp0AMrfXfOqEeNrlFJFrNDWEPSw/edit?usp=sharing
-
 This will help you to know what will be the first requirement while you are creating an app with iOS platform. This will also help you for initial setup of your project and make easier and smooth programming in future.
 
 **Appdelegate.swift**
